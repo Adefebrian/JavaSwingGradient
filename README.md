@@ -1,10 +1,10 @@
-# JavaSwingGradient-
-Component Java Swing for Making Modern UI with Gradient Color
+# JavaSwingGradient ❤🖤❤
+Component Java Swing for Making Modern UI with Gradient Color ❤❤❤
 
 Download : <a href="https://raw.githubusercontent.com/k33ptoo/KControls/master/dist/KControls.jar">Kcontrols</a>
 
-Please Subscribe my youtube channel : <a href="https://www.youtube.com/channel/UCFTIqUD8tp2qY0HfkeK5z9A?view_as=subscriber">Adefebrianoke</a> 
-Subscribe <a href="https://www.youtube.com/channel/UCFTIqUD8tp2qY0HfkeK5z9A?view_as=subscriber">here</a>
+Please Subscribe my youtube channel : <a href="https://www.youtube.com/channel/UCFTIqUD8tp2qY0HfkeK5z9A?view_as=subscriber">Adefebrianoke</a>  
+Subscribe <a href="https://www.youtube.com/channel/UCFTIqUD8tp2qY0HfkeK5z9A?view_as=subscriber">here</a> ❤🖤❤🖤
  
 [INDO] Cara Menggunakan ?
 
